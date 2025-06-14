@@ -2,17 +2,6 @@
 
 Este repositorio contiene la solución a una prueba técnica para BRM. El objetivo principal es demostrar habilidades técnicas en desarrollo backend, estructuración de código, uso de bases de datos y buenas prácticas de programación.
 
-## 📋 Tabla de Contenidos
-
-- [Prerrequisitos](#-prerrequisitos)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [Verificación](#-verificación)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Arquitectura del Proyecto](#-arquitectura-del-proyecto)
-- [Aprendizajes](#-aprendizajes)
-- [Mejoras Futuras](#-mejoras-futuras)
-- [Solución de Problemas](#-solución-de-problemas)
-
 ## 🔧 Prerrequisitos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado:

@@ -73,6 +73,10 @@ Una vez completados todos los pasos anteriores, ejecuta el proyecto:
 npm run dev
 ```
 
+### PASO 6: Abrir Swagger o verificar api en postman
+
+Una vez compile el programa se ejecutara en http://localhost:3000/, para acceder a swagger es: http://localhost:3000/doc
+
 ## ✅ Verificación
 
 Para confirmar que todo funciona correctamente:
@@ -135,9 +139,3 @@ Aspectos que pueden optimizarse en versiones futuras:
 
 ### Error de permisos
 - Verifica que el usuario PostgreSQL tenga permisos para crear tablas e insertar datos
-
----
-
-**Desarrollado por:** [Tu nombre]  
-**Fecha:** Junio 2025  
-**Propósito:** Prueba técnica para BRM
